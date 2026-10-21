@@ -1,0 +1,4 @@
+Layout Optimal_Potting Soup_Pickups Soups
+Cramped 36.00 11.00 11.00
+Ring 39.01 11.99 11.88
+Circuit 29.54 8.14 7.99

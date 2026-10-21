@@ -1,0 +1,17 @@
+===== FINAL RESULTS (100 GAMES) =====
+Average Soups Delivered: 11.00
+Average Optimal Potting: 36.00
+Average Soup Pickups: 11.00
+Average Soup Drops: 0.00
+
+--- Totals ---
+Total Soups: 1100
+Total Optimal Potting: 3600
+Total Pickups: 1100
+Total Drops: 0
+
+--- Variability ---
+Std Dev Soups: 0.00
+Min Soups: 11
+Max Soups: 11
+====================================
